@@ -1,0 +1,7 @@
+{
+  "name": "MyShield AI - Security Auditor",
+  "description": "A sophisticated security diagnostic tool that uses Gemini AI to identify suspicious apps, detect potential device hijacking, and analyze signs of remote control or unauthorized access.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
